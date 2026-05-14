@@ -1,0 +1,10 @@
+EvaluationManager.class
+Validator.class
+UI.class
+Main.class
+SubmissionController.class
+NotificationService.class
+Database.class
+ReviewerManager.class
+Reviewer.class
+Data.class
