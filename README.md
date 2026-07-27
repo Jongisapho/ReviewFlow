@@ -1,4 +1,4 @@
-# COS 730 – Assignment 2: Intelligent Submission and Review System
+# An Intelligent Assignment Submission and Review System
 
 > **From Behavioural Models to Optimized Implementation**
 
