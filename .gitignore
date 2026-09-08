@@ -1,0 +1,15 @@
+# Compiled build output
+target/
+*.class
+
+# H2 database files
+*.mv.db
+*.trace.db
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+.vscode/
