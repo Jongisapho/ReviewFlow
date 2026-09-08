@@ -1,6 +1,6 @@
 # ReviewFlow
 
-> **From Behavioural Models to Optimized Implementation**
+> **A refactored peer-review evaluation system - From monolithic decision logic to a clean, testable design**
 
 This repository contains two independent Java (Maven) projects side-by-side:
 
